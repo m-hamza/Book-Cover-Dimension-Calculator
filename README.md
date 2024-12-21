@@ -1,4 +1,4 @@
-# Book Cover Dimension Calculator
+#  ابزار محاسبه ابعاد جلد کتاب
 
 ## توضیحات پروژه
 
